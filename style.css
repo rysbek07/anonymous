@@ -1,0 +1,32 @@
+body {
+    background-image: url('./image6.jpg');
+    color:cyan  ;
+}
+
+.rys {
+    text-decoration: none;
+
+}.rys1 {
+    text-align:center
+}
+.rys2
+{
+    text-decoration: none;
+    background-color: navajowhite;
+    padding: 5px;
+    border-radius: 9px;
+
+
+}
+.rys3 {
+    text-decoration:underline;
+    border-radius: 100px;
+    background-color: rgb(205, 238, 16);
+    margin-left:40%;
+    margin-right:40%;
+    padding:8px;
+    color: mediumblue;
+}
+.rys4 {
+   color:rgb(245, 219, 52)
+}
