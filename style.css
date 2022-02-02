@@ -5,6 +5,7 @@ body {
 
 .rys {
     text-decoration: none;
+    color:chartreuse
 
 }.rys1 {
     text-align:center
@@ -21,10 +22,10 @@ body {
 .rys3 {
     text-decoration:underline;
     border-radius: 100px;
-    background-color: rgb(205, 238, 16);
+    background-color:lightcyan;
     margin-left:40%;
     margin-right:40%;
-    padding:8px;
+    padding:-1px;
     color: mediumblue;
 }
 .rys4 {
